@@ -2,46 +2,25 @@
 // Замініть вміст productsData на свої товари або підвантажуйте JSON із сервера.
 const productsData = [
   {
-    "id": "c1",
-    "name": "Желейні цукерки — Фруктова суміш",
-    "category": "желейні цукерки",
-    "image": "https://via.placeholder.com/600x400.png?text=%D0%96%D0%B5%D0%BB%D0%B5%D0%B9%D0%BD%D1%96",
-    "note": ""
+    id: 1,
+    name: "Фруктові цукерки",
+    category: "Цукерки",
+    image: "images/candies/fruit-candy.jpg",
+    description: "Асорті: апельсин, чорниця, полуниця, лимон, кола, виноград, персик"
   },
   {
-    "id": "c2",
-    "name": "Шоколадні цукерки — Преміум",
-    "category": "шоколадні цукерки",
-    "image": "https://via.placeholder.com/600x400.png?text=%D0%A8%D0%BE%D0%BA%D0%BE%D0%BB%D0%B0%D0%B4",
-    "note": ""
+    id: 2,
+    name: "Flower candy",
+    category: "Цукерки",
+    image: "images/candies/flower-candy.jpg",
+    description: "Асорті: персик, полуниця, диня, кавун, ананас"
   },
   {
-    "id": "p1",
-    "name": "Ванільне печиво — Ручна випічка",
-    "category": "печиво",
-    "image": "https://via.placeholder.com/600x400.png?text=%D0%9F%D0%B5%D1%87%D0%B8%D0%B2%D0%BE",
-    "note": ""
-  },
-  {
-    "id": "z1",
-    "name": "Зефір — М'який зефір",
-    "category": "зефір",
-    "image": "https://via.placeholder.com/600x400.png?text=%D0%97%D0%B5%D1%84%D1%96%D1%80",
-    "note": ""
-  },
-  {
-    "id": "imp1",
-    "name": "Імпортні солодощі — Сет",
-    "category": "солодощі з закордонy",
-    "image": "https://via.placeholder.com/600x400.png?text=%D0%86%D0%BC%D0%BF%D0%BE%D1%80%D1%82",
-    "note": ""
-  },
-  {
-    "id": "c3",
-    "name": "Карамельні цукерки — Асорті",
-    "category": "карамель",
-    "image": "https://via.placeholder.com/600x400.png?text=%D0%9A%D0%B0%D1%80%D0%B0%D0%BC%D0%B5%D0%BB%D1%8C",
-    "note": ""
+    id: 3,
+    name: "Неон карамель",
+    category: "Цукерки",
+    image: "images/candies/neon-caramel.jpg",
+    description: "Асорті: чорниця, виноград, полуниця, лимон, апельсин, яблуко"
   }
 ];
 
