@@ -1,25 +1,25 @@
 // products.js - демонстраційний файл з товарами.
 // Замініть вміст productsData на свої товари або підвантажуйте JSON із сервера.
 const productsData = [
-  {
+   {
     id: 1,
     name: "Фруктові цукерки",
     category: "Цукерки",
-    image: "sweets/photos/fruit-candy.jpg.jpg",
+    image: "sweets/photos/fruit-candy.jpg",
     description: "Асорті: апельсин, чорниця, полуниця, лимон, кола, виноград, персик"
   },
   {
     id: 2,
     name: "Flower candy",
     category: "Цукерки",
-    image: "sweets/photos/flower-candy.jpg.jpg",
+    image: "sweets/photos/flower-candy.jpg",
     description: "Асорті: персик, полуниця, диня, кавун, ананас"
   },
   {
     id: 3,
     name: "Неон карамель",
     category: "Цукерки",
-    image: "sweets/photos/neon-caramel.jpg.jpg",
+    image: "sweets/photos/neon-caramel.jpg",
     description: "Асорті: чорниця, виноград, полуниця, лимон, апельсин, яблуко"
   }
 ];
