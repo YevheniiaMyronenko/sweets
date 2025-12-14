@@ -5,21 +5,21 @@ const productsData = [
     id: 1,
     name: "Фруктові цукерки",
     category: "Цукерки",
-    image: "photos/sweets/fruit-candy.jpg",
+    image: "sweets/photos/fruit-candy.jpg.jpg",
     description: "Асорті: апельсин, чорниця, полуниця, лимон, кола, виноград, персик"
   },
   {
     id: 2,
     name: "Flower candy",
     category: "Цукерки",
-    image: "photos/sweets/flower-candy.jpg.jpg",
+    image: "sweets/photos/flower-candy.jpg.jpg",
     description: "Асорті: персик, полуниця, диня, кавун, ананас"
   },
   {
     id: 3,
     name: "Неон карамель",
     category: "Цукерки",
-    image: "photos/sweets/neon-caramel.jpg.jpg",
+    image: "sweets/photos/neon-caramel.jpg.jpg",
     description: "Асорті: чорниця, виноград, полуниця, лимон, апельсин, яблуко"
   }
 ];
