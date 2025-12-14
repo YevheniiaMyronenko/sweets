@@ -12,7 +12,7 @@ const productsData = [
     id: 2,
     name: "Flower candy",
     category: "Цукерки",
-    image: "images/candies/flower-candy",
+    image: "images/candies/photos/flower-candy.jpg.jpg",
     description: "Асорті: персик, полуниця, диня, кавун, ананас"
   },
   {
